@@ -54,7 +54,7 @@ body {
   outline: none;
 }
 
-.form>button {
+.button {
   background: #333;
   border: none;
   padding: 0 1rem;
